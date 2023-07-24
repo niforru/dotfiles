@@ -92,8 +92,8 @@ fi
 
 #export PS1="\[\e[31m\][\[\e[m\]\[\e[33m\]\u\[\e[m\]\[\e[32m\]@\[\e[m\]\[\e[36m\]\h\[\e[m\]\[\e[35m\]\W\[\e[m\]\[\e[31m\]]\[\e[m\]\[\e[31m\]:\[\e[m\]\[\e[31m\]-\[\e[m\] "
 
-alias nano='vim'
 alias bluetooth='modprobe btusb && systemctl start bluetooth && bluetoothctl' 
 alias autoremove='sudo pacman -Qdtq | sudo pacman -Rs -'
 
-artsy
+# Uncomment if you have my script artsy working
+#artsy
