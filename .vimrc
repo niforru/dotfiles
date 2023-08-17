@@ -1,3 +1,4 @@
+syntax on
 set nocompatible
 set redrawtime=10000
 set background=dark
@@ -12,4 +13,3 @@ set undodir=~/.vim/undordir
 set undofile 
 set incsearch
 set cursorline
-
