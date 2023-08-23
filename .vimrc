@@ -13,3 +13,4 @@ set undodir=~/.vim/undordir
 set undofile 
 set incsearch
 set cursorline
+set termguicolors
